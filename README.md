@@ -9,7 +9,7 @@
 + **Chapter 6:** Polymorphism
 + **Chapter 7:** Template
 ***
-##References:
+## References:
 - Lecture slides of University of Transport.
 - Lecture slides of University of Information Technology & Ho Chi Minh City University of Technology.
 - SỔ TAY KIẾN THỨC OOP - BHTCNPM - UIT
