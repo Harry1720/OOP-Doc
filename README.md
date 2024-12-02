@@ -1,5 +1,5 @@
 # Object Oriented Programming Lecture Notes
-### *These theories are presented with C++ language.*
+### *These theories are presented using the C++ language.*
 ***
 + **Chapter 1:** Introduction
 + **Chapter 2:** Comparision between C and C++.
